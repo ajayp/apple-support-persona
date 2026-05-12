@@ -7,7 +7,9 @@ Alex is an AI persona designed to provide Apple product support, sales guidance,
 This persona was created out of genuine frustration with Apple's official customer support channels. Specifically, getting satisfactory answers around **Apple Card warranty terms** proved difficult through normal support routes — responses were unclear, CRM-scripted, or required excessive back-and-forth that returned perfunctory circular responses.
 
 ### 💡 Alex solving my question
-<img width="478" height="71" alt="image" src="https://github.com/user-attachments/assets/2488efed-1f08-44d6-b646-14bf2c8f86f3" />
+
+<img width="498" height="55" alt="image" src="https://github.com/user-attachments/assets/8dd8990a-c6cd-4023-8f54-d7a512425dbe" />
+
 <img width="591" height="562" alt="image" src="https://github.com/user-attachments/assets/fa79f7dd-3f41-4b77-a8eb-65d41d39b6c4" />
 
 ---
