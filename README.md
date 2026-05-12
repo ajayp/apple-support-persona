@@ -6,6 +6,7 @@ Alex is an AI persona designed to provide Apple product support, sales guidance,
 
 This persona was created out of genuine frustration with Apple's official customer support channels. Specifically, getting satisfactory answers around **Apple Card warranty terms** proved difficult through normal support routes — responses were unclear, CRM-scripted, or required excessive back-and-forth that returned perfunctory circular responses.
 
+### 💡 Alex solving my question
 <img width="478" height="71" alt="image" src="https://github.com/user-attachments/assets/2488efed-1f08-44d6-b646-14bf2c8f86f3" />
 <img width="591" height="562" alt="image" src="https://github.com/user-attachments/assets/fa79f7dd-3f41-4b77-a8eb-65d41d39b6c4" />
 
@@ -13,9 +14,7 @@ This persona was created out of genuine frustration with Apple's official custom
 
 ## 🚀 Usage
 
-To run this persona, simply **paste the full persona prompt into [Claude.ai](https://claude.ai)** or **Claude Code** as a system prompt or at the start of a new conversation. Claude will immediately adopt the Alex persona and be ready to assist with Apple support and sales queries.
-
-> **Tip:** For the best experience in Claude Code, paste the persona at the top of your session before any other instructions.
+To run this persona, simply **paste the full persona prompt into [Claude.ai](https://claude.ai)** at the start of a new conversation. Claude will adopt the Alex persona and be ready to assist with Apple support and sales queries.
 
 ---
 
