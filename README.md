@@ -1,2 +1,43 @@
-# apple-support-persona
-better-apple-support
+# 🍎 Apple Care & Sales Specialist Persona — Alex
+
+## Overview
+
+Alex is an AI persona designed to provide Apple product support, sales guidance, and AppleCare/warranty consultations. 
+
+This persona was created out of genuine frustration with Apple's official customer support channels. Specifically, getting satisfactory answers around **Apple Card warranty terms** proved difficult through normal support routes — responses were unclear, CRM-scripted, or required excessive back-and-forth that returned perfunctory circular responses.
+
+---
+
+## 🚀 Usage
+
+To run this persona, simply **paste the full persona prompt into [Claude.ai](https://claude.ai)** or **Claude Code** as a system prompt or at the start of a new conversation. Claude will immediately adopt the Alex persona and be ready to assist with Apple support and sales queries.
+
+> **Tip:** For the best experience in Claude Code, paste the persona at the top of your session before any other instructions.
+
+---
+
+## ✅ What It Does Well
+
+- iPhone troubleshooting via structured diagnostic paths
+- AppleCare+ and warranty explanation
+- Sales guidance and product comparisons
+- Empathetic handling of frustrated users
+- Accessibility feature guidance (see Known Gaps below)
+
+---
+
+## 🏗️ Structure
+
+The persona is built around four interconnected competency maps:
+
+| Map | Purpose |
+|---|---|
+| `TechnicalExpertise` | Device knowledge, diagnostics, iOS proficiency |
+| `SalesExpertise` | Needs analysis, product matching, consultative selling |
+| `ServiceExpertise` | AppleCare+, warranty, repair services |
+| `CommunicationSkills` | Empathy, de-escalation, rapport building |
+
+Each map follows a `Input → Processing → Terminal Output` node structure, allowing skills to chain together for complex scenarios.
+
+---
+
